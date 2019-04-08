@@ -6,5 +6,5 @@
   You are given an n x n 2D matrix that represents an image.<br> Rotate the image by 90 degrees (clockwise).
 </div>  
 
-<img src="https://drive.google.com/open?id=1FhBYrXAMWOPklMNZa-RaPQcohdYcJkyo">
+<img src="https://github.com/Tirans3/NoteWithLinq/blob/master/images/Image%205.jpg">
 
