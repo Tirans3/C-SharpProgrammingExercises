@@ -1,7 +1,8 @@
 
+  
 <p align="center" ><b>C# Sharp programming exercises, practice, solution</b></p>
 <hr>
-<div >
+<div align="center">
   <b>Exercises 1</b><br>
   You are given an n x n 2D matrix that represents an image.<br> 
   Rotate the image by 90 degrees (clockwise).<br>
@@ -24,7 +25,7 @@
 
    </div>
 
-<div >
+<div align="center">
   <b>Exercises 3</b><br>
   
   Given a sequence of integers as an array, determine whether it is possibl to obtain<br>
