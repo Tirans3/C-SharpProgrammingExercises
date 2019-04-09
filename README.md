@@ -18,7 +18,7 @@
    to make things perfect, he wants to arrange them from smallest to largest so<br>
    that each statue will be bigger than the   previous one exactly by 1. He may <br>
    need some additional statues to be able to accomplish that.Help him figure out<br>
-   the minimum number of additional statues needed.
+   the minimum number of additional statues needed.<br>
    
    <img src="images/Capture.JPG">
 
