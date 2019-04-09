@@ -42,15 +42,11 @@ namespace ExsSolution
             return count;
         }
         //     Exercises 3
-        // Given a sequence of integers as an array, determine 
-        // whether it is possible to obtain a strictly increasing sequence
-        // by removing no more than one element from the array.
+        //     Return true if it is possible to remove one 
+        //     element from the array in order to get a strictly 
+        //     increasing sequence, otherwise return false.
 
-        //Note: sequence a0, a1, ..., an is considered to be a strictly
-        //increasing if a0<a1< ... < an.Sequence containing only one 
-        //element is also considered to be strictly increasing.
-
-        public static bool Issort(int[] a)
+        public static bool almostIncreasingSequence(int[] a)
         {
             bool s = false;
 
