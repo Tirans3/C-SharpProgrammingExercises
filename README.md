@@ -25,7 +25,7 @@
 
    </div>
 
-<div align="right">
+<div align="center">
   
   <b>Exercises 3</b><br>
   <text>
