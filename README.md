@@ -28,13 +28,13 @@
 <div align="center">
   
   <b>Exercises 3</b><br>
-  <pre>
- Given a sequence of integers as an array, determine whether it is possibl to obtain
- a strictly increasing sequence by removing no more than one element from the array.
+  
+ Given a sequence of integers as an array, determine whether it is possibl to obtain<br>
+ a strictly increasing sequence by removing no more than one element from the array.<br>
 
- <i> Note</i>: sequence a0, a1, ..., an is considered to be a strictly increasing if 
- a0 < a1 < ... < an. Sequence containing only one element is also considered to
+ <i> Note</i>: sequence a0, a1, ..., an is considered to be a strictly increasing if <br>
+ a0 < a1 < ... < an. Sequence containing only one element is also considered to<br>
  be strictly increasing.<br>
- </pre>
+
   <img src="images/1.JPG">
 </div>  
