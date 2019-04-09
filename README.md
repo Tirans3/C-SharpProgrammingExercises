@@ -25,7 +25,7 @@
 
    </div>
 
-<div align="center">
+<div align="right">
   <b>Exercises 3</b><br>
   
   Given a sequence of integers as an array, determine whether it is possibl to obtain<br>
