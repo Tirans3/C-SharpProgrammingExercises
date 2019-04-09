@@ -4,9 +4,10 @@
 <div >
   <b>Exercises 1</b><br>
   You are given an n x n 2D matrix that represents an image.<br> Rotate the image by 90 degrees (clockwise).
+  
+  <img src="https://github.com/Tirans3/NoteWithLinq/blob/master/images/Image%205.jpg">
 </div>  
 
-<img src="https://github.com/Tirans3/NoteWithLinq/blob/master/images/Image%205.jpg">
 
 <div >
   <b>Exercises 2</b><br>
@@ -18,6 +19,7 @@
    need some additional statues to be able to accomplish that.Help him figure out<br>
    the minimum number of additional statues needed.
    
+   <img src="images/Capture.JPG">
+
    </div>
 
-<img src="images/Capture.JPG">
