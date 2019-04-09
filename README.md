@@ -24,3 +24,15 @@
 
    </div>
 
+<div >
+  <b>Exercises 3</b><br>
+  
+  Given a sequence of integers as an array, determine whether it is possibl to obtain<br>
+  a strictly increasing sequence by removing no more than one element from the array.<br><br>
+
+ <i> Note</i>: sequence a0, a1, ..., an is considered to be a strictly increasing if <br>
+  a0 < a1 < ... < an. Sequence containing only one element is also considered to<br>
+  be strictly increasing.<br>
+  
+  <img src="images/1.JPG">
+</div>  
